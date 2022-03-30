@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#Titulo{
+    text-align: center;
+    margin-bottom: 5px;
+}
+body{
+    background-color: aqua;
+}
+main{
+    max-width: 60%;
+    background-color: brown;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+h1{
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: white;
+}
+#div_form{
+    background-color: whitesmoke;
+    border-color: rgb(32, 31, 29);
+    border-style: solid;
+}
+.texto{
+    height: 18px;
+    font-family: arial,sans-serif;
+    font-size: 15px;
+}
+.fonte{
+    font-size: 20px;
+    font-family: arial, sans-serif;
+}
+label{
+    font-weight:bold ;
+    font-size: 15px;
+    display: block;
+    text-align: right;
+}
+form{
+    display: block;
+    padding: 10px;
+}
+tr{
+    height: 30px;
+}
